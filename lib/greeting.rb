@@ -1,4 +1,4 @@
 # code the #greeting method here!
 def greeting(name)
-  
-end
+  puts "Hello #{Kelvin.chomp.strip}. It's nice to meet you."
+end 	
